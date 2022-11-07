@@ -1,0 +1,28 @@
+#formDiv {
+    width: fit-content;
+    border: 1px solid black;
+    border-width: 1px;
+    border-color: black;
+    align-self: center;
+    padding-left: 5em;
+    padding-right: 5em;
+    left: 2em;
+    background-color: lightslategray;
+    
+}
+
+body {
+    text-align:center;
+    font-family: 'helvetica neue';
+    align-items: center;
+    justify-content: center;
+    background-image: url('./linked.jpg');
+  }
+  /* display: flex; */
+  /* display: inlineflex */
+  
+
+  
+
+  
+  
